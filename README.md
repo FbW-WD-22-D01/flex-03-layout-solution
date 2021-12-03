@@ -11,9 +11,10 @@
     - Drama → darkgrey
     - Romance → red
 3.  For each section, center the font.
-4.  Each flex-item should have a basic width of 500px and a fixed height of 100px. By default, each flex-item should take up all extra space.
-5.  Now, make an exception for "thriller" and "comedy", Both sections should take up 10 times the amount of extra-space of their adjacent element.
-    
+4.  Each flex-item should have a basic width of 200px and a fixed height of 100px. By default, each flex-item should take up all extra space.
+5.  The "romance" section should take up three times as much space as the other sections.
+6.  The "comedy" section should take up six times as much space as the other sections.
+
 **Hint**: Consider using flex-wrap.
 
 ![reference-gif](/images/example.gif)
